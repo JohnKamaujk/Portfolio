@@ -546,8 +546,8 @@ h1 {
 
 /*ABOUT ME section ends!!*/
 
-/*WORKS section vert section vert section*/
-#works {
+/*Projects section vert section vert section*/
+#projects {
   width: 100%;
   height: fit-content;
   padding-top: 65px;
@@ -686,7 +686,7 @@ h1 {
 }
 .box7 {
   background-color: rgba(93, 237, 205, 1);
-  background: url("./images/travas.png");
+  background: url("./images/turfs.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -833,7 +833,7 @@ h1 {
   font-weight: 900;
   font-size: 30px;
 }
-/*WORKS section ends!!!*/
+/*PROJECTS section ends!!!*/
 
 /*CONTACT section vert section vert section*/
 footer {
@@ -1517,8 +1517,8 @@ footer {
   }
   /*ABOUT ME section ends!!*/
 
-  /*WORKS section vert section vert section*/
-  #works {
+  /*PROJECTS section vert section vert section*/
+  #projects {
     width: 100%;
     height: fit-content;
     padding-top: 0px;
@@ -1644,7 +1644,7 @@ footer {
   }
   .box7 {
     background-color: rgba(93, 237, 205, 1);
-    background: url("./images/travas.png");
+    background: url("./images/turfs.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1779,7 +1779,7 @@ footer {
     font-weight: 900;
     font-size: 30px;
   }
-  /*WORKS section ends!!!*/
+  /*PROJECTS section ends!!!*/
 
   /*CONTACT section vert section vert section*/
   footer {
@@ -2246,8 +2246,8 @@ footer {
 
   /*ABOUT ME section ends!!*/
 
-  /*WORKS section vert section vert section*/
-  #works {
+  /*PROJECTS section vert section vert section*/
+  #projects {
     width: 100%;
     height: fit-content;
     padding-top: 65px;
@@ -2380,14 +2380,14 @@ footer {
   }
   .box7 {
     background-color: rgba(93, 237, 205, 1);
-    background: url("./images/travas.png");
+    background: url("./images/turfs.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
   .box8 {
     background-color: rgba(93, 237, 205, 1);
-    background: url("./images/tenzies.png");
+    background: url("./images/turfs.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -2506,7 +2506,7 @@ footer {
     font-weight: 900;
     font-size: 30px;
   }
-  /*WORKS section ends!!!*/
+  /*PROJECTS section ends!!!*/
 
   /*CONTACT section vert section vert section*/
   footer {
